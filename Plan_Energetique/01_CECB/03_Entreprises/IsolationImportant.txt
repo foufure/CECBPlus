@@ -1,0 +1,69 @@
+http://www.toutsurlisolation.com/Votre-projet-de-A-a-Z/L-isolation-en-renovation
+
+
+https://www.anco.pro/blog/pare-vapeur
+http://www.toutsurlisolation.com/Votre-projet-de-A-a-Z/L-isolation-en-renovation
+http://www.toutsurlisolation.com/Isolation-thermique/Reussir-son-isolation-thermique/Ventilation-maitrisee/Pourquoi-une-VMC
+http://www.toutsurlisolation.com/Isolation-thermique/Reussir-son-isolation-thermique/Ventilation-maitrisee/Ventilation-ou-aeration
+http://www.toutsurlisolation.com/Isolation-thermique/Reussir-son-isolation-thermique/Ventilation-maitrisee/VMC-simple-flux-ou-double-flux
+
+http://www.tiez-breiz.org/isolation.php
+http://www.energieplus-lesite.be/index.php?id=10352
+http://www.energieplus-lesite.be/index.php?id=10392
+https://www.travauxbricolage.fr/travaux-interieurs/isolation-ventilation/isolation-mur-pierre/ - VMC
+
+
+http://www.toutsurlisolation.com/Choisir-son-isolant/Les-criteres-de-choix
+http://www.toutsurlisolation.com/Votre-projet-de-A-a-Z/L-isolation-en-renovation/L-isolation-des-murs-en-renovation/Isolation-d-un-mur-humide
+
+http://www.pavatex.ch/fr/service/services-de-physique-du-batiment/rapport-thermographique/
+
+http://forums.futura-sciences.com/habitat-bioclimatique-isolation-chauffage/113363-vapeur-deau-murs.html
+http://forums.futura-sciences.com/habitat-bioclimatique-isolation-chauffage/94136-outils-de-calculs.html
+
+http://mayar.over-blog.com/article-4801188.html
+http://www.energieplus-lesite.be/?id=10242
+
+http://www.toutsurlisolation.com/Isolation-thermique/Isolation-de-la-maison-murs-combles-et-toitures/L-isolation-des-murs/Faut-il-un-pare-vapeur-pour-l-isolation-des-murs
+
+https://fr.wikipedia.org/wiki/Humidit%C3%A9_(construction)
+
+
+
+Bonjour Roche;
+L'eau qui remonte par capillarité dans vos murs est en phase liquide, alors que la VMC n'évacue que de la vapeur d'eau (phase vapeur).
+Il vous faut donc commencer par bloquer les remontées d'eau dans les murs (drainage aux niveau des fondations, injection d'un produit chimique dans les bas de murs...).
+Si la pression n'est pas trop forte (cas des remontées de nappe phréatique) et que ça fonctionne, vous pourrez alors asséchez vos murs par ventilation du local ou en utilisant un déshumidificateur électrique. 
+
+
+
+Solutions : Isolation, ventilation... et pare-vapeur
+
+ 
+
+Selon Wikipedia :
+
+{xtypo_quote}Pour régler ce problème [de condensation], il faut chauffer (pour augmenter la capacité en eau de l'air), isoler (pour augmenter la température des points froids) et ventiler (pour évacuer l'air humide) l'habitation.{/xtypo_quote}
+
+Cette phrase résume bien comment régler le problème de la condensation dans le logement; mais pas dans les murs.
+
+Pour empêcher condensation et stagnation d'eau dans les murs, il y a 2 moyens :
+
+Réguler l'humidité de l'air chaud à l'intérieur de l'habitat
+
+Bloquer le passage de la vapeur d'eau au niveau des murs avec... un pare-vapeur
+
+{gallery}pare-vapeur:80:80{/gallery}
+
+ 
+
+Plus le climat est froid, et plus les différences de températures entre l'intérieur de la bâtisse et l'extérieur sont élevées, plus cela crée de fortes condensations qui nécessitent l'installation d'un pare-vapeur.
+
+ 
+
+Attention : l'emploi de pare-vapeur dépend aussi du type d'isolant utilisé; par exemple la laine de bois ne nécessite pas forcément d'un pare-vapeur.
+
+
+{xtypo_sticky}Pour réguler l'humidité de l'air , on peut utiliser un sécheur l'air (déshumidificateur), un absorbeur d'humidité, ou mieux, améliorer la ventilation (par VMC, ventilation mécanique contrôlée, ou autre). En effet, l'air frais extérieur, plus froid, contient moins de vapeur d'eau, et une fois réchauffé, fera baisser le taux d'humidité global.
+
+Dans une maison bien ventilée, l'air a un taux d'humidité modéré, et il n'est pas toujours indispensable de poser un pare-vapeur. Toutefois, quel logement est bien ventilé en hiver ? Les bâtiments sont de plus en plus étanches et empêchent le renouvellement de l'air (sauf en cas de VMC). Quand à ouvrir les fenêtres, plus il fait froid dehors, moins on a tendance à les ouvrir pour ventiler...{/xtypo_sticky}

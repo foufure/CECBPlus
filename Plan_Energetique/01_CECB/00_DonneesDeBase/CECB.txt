@@ -1,0 +1,19 @@
+http://www.cecb.ch/Pages/GEAK/Knowledge/MethodPage.aspx
+http://www.cecb.ch/Pages/GEAK/System/ClassificationPage.aspx
+http://www.cecb.ch/Pages/GEAK/System/DocumentPage.aspx
+http://cecb-diagno.ch/Home/IndexLang/fr
+http://www.cecb.ch/Pages/GEAK/Plus/GeakPlusPage.aspx
+http://www.cecb.ch/Pages/GEAK/System/FAQPage.aspx
+
+
+ La méthode de calcul du besoin en énergie pour le chauffage à partir de données sur l’enveloppe du bâtiment suit la procédure conventionnelle en Suisse (norme SIA 380/1). La précision des calculs dépend des données de base : si elles sont mauvaises (pas de plans, de détails sur les éléments de construction ni de données de consommation), l’outil informatique recourt à des valeurs standard mémorisées dans des tableaux. Dans ce cas, l’évaluation du bâtiment est moins précise. Le calcul du besoin énergétique global considère en plus la technique du bâtiment sous une forme simplifiée.
+
+La méthodologie appliquée par le CECB inclut ensuite une comparaison de ces besoins en énergie calculés et de la consommation effective mesurée, et à une itération corrective si l’écart entre ces deux valeurs est important, qui nécessitera le savoir spécialisé de l’expert. Il modifie les données de départ jusqu’à ce que les besoins calculés soient en accord avec la consommation mesurée.
+
+Pour le rapport de conseil détaillé (CECB Plus) les données de l’enveloppe du bâtiment et de la technique du bâtiment peuvent être saisies en détail en fonction de la situation locale. La même chose est valable pour la saisie des mesures de rénovation.
+
+Les calculs du CECB utilisent principalement des valeurs standard indépendantes du comportement des utilisateurs et en considérant une occupation complète par les habitants. Les valeurs de consommation énergétique mesurées ne servent qu’à assurer la comparabilité.
+
+    Quand par exemple des appartements sont inoccupés, ou quand peu d’habitants occupent une grande maison, ou lorsque les habitants se montrent économes dans leur consommation énergétique, le besoin normalisé peut être très différent de la consommation effective.
+    Le CECB génère d'abord les données automatiquement. Cela restreint sa précision et sa signification, si l'Expert s'abstient d'apporter des précisions ou modifications, par exemple dans le cas de constructions nouvelles ou de constructions qui ne correspondent pas à la norme.
+    Les mesures de rénovation des éléments de construction (par exemple façades, fenêtres, toit et plafond du sous-sol) effectuées au cours des ans peuvent être saisies avec la surface concernée, l’épaisseur de la couche d’isolation thermique resp. la date du remplacement de fenêtres. Les solutions spéciales pour chauffage et eau chaude ne peuvent être considérées.
